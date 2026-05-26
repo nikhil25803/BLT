@@ -352,6 +352,7 @@ The leaderboard updates monthly, with rankings reset at the start of each month 
 | [Filip Vrablik](https://github.com/filipkov04) | [#6378](https://github.com/OWASP-BLT/BLT/pull/6378) | No |
 | [Devolli](https://github.com/Olli-Dev) | [#6377](https://github.com/OWASP-BLT/BLT/pull/6377) | No |
 | [willkhinz](https://github.com/willkhinz) | [#32](https://github.com/OWASP-BLT/BLT-University/pull/32) | No |
+| [phiphuc](https://github.com/phiphuc) | [#6458](https://github.com/OWASP-BLT/BLT/pull/6458) | No |
 
 <!-- FIRST_TIME_CONTRIBUTORS_END -->
 
